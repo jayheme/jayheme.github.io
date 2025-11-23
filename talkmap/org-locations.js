@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Hello<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Imperfect shot noise measurement of pulsed laser sources<br />SN Bose National Center for Basic Sciences; Kolkata, India",
+    22.5726459,
+    88.3638953
   ]
 ];
