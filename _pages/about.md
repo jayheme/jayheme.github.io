@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /
 title: "Jayanth personal website"
 author_profile: true
 redirect_from: 
