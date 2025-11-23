@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Free Space Continuous Variable Quantum Key Distribution<br />Physical Research Laboratory; Ahmedabad, India",
+    23.0215374,
+    72.5800568
   ],
   [
     "Imperfect shot noise measurement of pulsed laser sources<br />SN Bose National Center for Basic Sciences; Kolkata, India",
