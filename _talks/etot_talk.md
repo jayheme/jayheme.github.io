@@ -1,8 +1,8 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Integrating multiple QKD links: Road to a country wide QKD network"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+type: "Conference talk"
+permalink: /talks/etot_talk
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2014-03-01
 location: "Los Angeles, CA, USA"
