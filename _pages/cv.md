@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Technology in Optical Engineering, Indian Institute of Space Science and Technology, 2021
+* Bachelor of Technology in Engineering Physics, Indian Institute of Space Science and Technology, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2022 - Present: Scientist
+  * Physical Research Laboratory
+  * Project: Free Space Quantum Communication and Entanglement
+  * Supervisor: Prof. R. P. Singh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020 - June 2021: Research Assistant
+  * Indian Institute of Space Science and Technology
+  * Research on Quantum Enhanced Interferometry
+  * Supervisor: Prof. Solomon Ivan
   
 Skills
 ======
@@ -61,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizing Member, Student Conference on Optics and Photonics at Physical Research Laboratory
+* Volunteer Member, Science Express, Physical Research Laboratory
+* Student Member, SPIE-Optics Student Chapter, Indian Institute of Space Science and Technology
