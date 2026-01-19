@@ -13,7 +13,7 @@ I am currently a Research Scientist in the Quantum Science and Technology lab at
 
 My current research focus is on the generation of entangled photons across various degrees of freedom and their application in quantum information tasks, particularly in quantum communication. I have previously worked on demonstrating various quantum key distribution experiments over a 200m free-space link. During my Master's thesis, I worked on quantum-enhanced interferometry, researching methods to improve the sensitivity of interferometers with quantum states of light. 
 
-YOu can view my [CV](https://drive.google.com/file/d/1a6f8vB2LjiFvTG_805lMirycsw_kD9i0/view?usp=sharing). 
+You can view my [CV](https://drive.google.com/file/d/1a6f8vB2LjiFvTG_805lMirycsw_kD9i0/view?usp=sharing). 
 
 Recent Updates
 ======
